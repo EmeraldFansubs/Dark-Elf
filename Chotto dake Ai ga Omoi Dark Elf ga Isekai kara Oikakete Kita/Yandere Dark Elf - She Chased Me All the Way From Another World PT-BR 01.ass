@@ -32,7 +32,7 @@ Style: Narrow BRABO,Arial Narrow,100,&H00FFFFFF,&H00060606,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.94,tarja,,0,0,0,,{\fscx191\fscy656\pos(888,878)}fdiuhiuhsiuhdfsiuhufdsiufshufidsuhfdsuihdsifdsh
 Dialogue: 0,0:00:00.00,0:00:05.25,Century Gothic,,0,0,0,,Esse anime não é recomendado para menores de 18 anos, e não é recomendado para pessoas sensíveis.
-Dialogue: 0,0:00:00.00,0:00:05.25,Narrow BRABO,,0,0,0,,{\pos(944,115.667)}Aviso a prova de frescos:
+Dialogue: 0,0:00:00.00,0:00:05.25,Century Gothic,,0,0,0,,{\pos(944,115.667)}Aviso a prova de frescos:
 Dialogue: 10,0:00:16.53,0:00:18.72,Century Gothic,,0,0,0,,May! Aguente firme!
 Dialogue: 10,0:00:19.73,0:00:21.67,Century Gothic,,0,0,0,,Muito Obrigado,\N Cecil-Chan.
 Dialogue: 10,0:00:21.67,0:00:23.80,Century Gothic,,0,0,0,,Me conceda o poder\N que estou procurando...
